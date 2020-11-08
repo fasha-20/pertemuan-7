@@ -11,14 +11,18 @@ Program latihan 1
 pertama kita menentukan banyak nya perulangan sebanyak 10x
 variable i berfungsi untuk menampung ideks
 dan fungsi range() berfungsi untuk membuat list dengan range dari 1-10.
-![1.png](/gambar tugas 1/1.png)
+
+![1.png](/gambar/1.png)
 
 hasil dari output
-![2.png](/gambar tugas 1/2.png)
+
+![2.png](/gambar/2.png)
+
 Program latihan 2
 
 Step pada souece code latihan2
-![1.png](/gambar tugas 2/1.png)
+
+![1.png](/gambar2/1.png)
 
 output dari latihan 2
-![2.png](/gambar tugas 2/2.png)
+![2.png](/gambar2/2.png)
